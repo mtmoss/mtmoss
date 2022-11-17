@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria Thereza Moss – M.T. for short.</h1>
-<h3 align="center">I'm an experienced tech translator and writer studying front end development.</h3>
+<h3 align="center">I'm an experienced UX translator and writer studying web development.</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mtmoss](https://github.com/mtmoss)
 
-- 📝 I regularly write articles on [https://mtmoss.com.br](https://mtmoss.com.br)
+- 📝 I regularly write articles on [https://mtmoss.com.br](https://mtmoss.co)
 
 - 💬 Ask me about **software localization and CAT tools**
 
-- 📫 How to reach me **mt@mtmoss.com.br**
+- 📫 How to reach me **mt@mtmoss.co**
 
 - 📄 Know about my experiences [https://linkedin.com/in/mariatherezamoss/](https://linkedin.com/in/mariatherezamoss/)
 
