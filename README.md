@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mtmoss](https://github.com/mtmoss)
 
-- 📝 I regularly write articles on [https://mtmoss.com.br](https://mtmoss.co)
+- 📝 I regularly write articles on [https://mtmoss.co](https://mtmoss.co)
 
 - 💬 Ask me about **software localization and CAT tools**
 
